@@ -49,3 +49,9 @@ node pdf-transform.js
 
 It should not take too long and in the end there should be around 120 PDF files in the
 `books-pdf` folder.
+
+## Disclaimer
+
+This is just a little tool to download data that is already provided to you for free,
+by Betty Bossi. Don't share the downloaded data with anyone and respect it, should they
+cancel the offer.
