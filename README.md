@@ -29,6 +29,12 @@ the results into the `books.json` file.
 
 The next step is to download the images. This can be done as follows:
 
+Open `index.js` and on line 16, enter your own cookie from the Betty Bossi portal (
+you need to make an account). You can get the cookie by typing `document.cookie` into
+the browser devtools.
+
+After you've done that, just execute the following:
+
 ```bash
 mkdir books
 node index.js
