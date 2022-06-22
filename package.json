@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "got": "^10.6.0",
+    "got": "^11.8.5",
     "html2pdf": "0.0.11",
     "image-size": "^0.8.3",
     "pdfkit": "^0.11.0"
